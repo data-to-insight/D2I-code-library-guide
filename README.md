@@ -1,4 +1,4 @@
-# D2I code library guide
+# D2I code library guide and terms of use
 
 Welcome to the D2I code library! This is a space for children's services data professionals to share code or other data work which they think others may find useful. It's currently private, which means access is limited to current English local statutory safeguarding authority employees. To gain access, or if you have comments or questions, please please get in touch via the D2I website (https://www.datatoinsight.org/collaboration).
 
