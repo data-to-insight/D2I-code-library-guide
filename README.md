@@ -4,7 +4,7 @@ Welcome to the D2I code library! This is a space for children's services data pr
 
 Here on GitHub, separate repositories exist within the data-to-insight organisation (https://github.com/data-to-insight) which you can browse for things you might find useful in your own work. Our standard terms of use (see item 4 below) permit you to use and re-use these things within your local authority. For any other purpose, you must ask the author's permission unless they have provided for other such use under a specific stated license within the relevant repository.
 
-Some repositories are "public", which means anyone can see them, though repository owners may retain control of the code therein. Other repositories are "private" which means they will not be visible except to members. A full list of private repositories is available to D2I members by email request, or by D2I Slack membership.
+Some repositories are "public", which means anyone can see them and make pull requests, though repository owners may retain control of the code therein. Other repositories are "private" which means they will not be visible except to members. A full list of private repositories is available to D2I members by email request, or by D2I Slack membership.
 
 You can also contribute your work, and we encourage you to do so. We're happy to work with individual colleagues and/or teams to find the right ways to share work in each case, including agreeing who will manage the new repository and who can contribute to it. By sharing work via this space you agree to colleagues in other LAs using your work to support their own work, without cost, but also without warranty (see item 3 below).
 
